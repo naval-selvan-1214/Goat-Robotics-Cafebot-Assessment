@@ -1,0 +1,2 @@
+string event_type
+string table_id
